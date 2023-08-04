@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+h2 {
+  color: purple;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-color: aquamarine;
+  border: 6px solid black;
+}
+input{
+  padding: 0.5rem;
+  border-radius: 2px;
+  border: 2px solid purple;
+  background-color: whitesmoke;
+  color: purple;
+}
+label{
+  color: purple;
+
+}
+form{
+  color: black;
+}
